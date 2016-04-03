@@ -9,7 +9,7 @@ var urlList = {"Portfolio Page":"http://anirvachan.github.io/frontend-nanodegree
 			   "Asteroids":"http://www.codeskulptor.org/#user39_wdcvKTfcrvnBY0X_6.py",
 			   "Blackjack":"http://www.codeskulptor.org/#user39_O8QIFFo8IoWewUB_14.py",
 			   "2048":"http://www.codeskulptor.org/#user41_ntIpAQogVO_6.py",
-			   "Tic-Tac-Toe":"http://www.codeskulptor.org/#user40_3WQuQVJNGS_8.py",
+			   "Tic-Tac-Toe":"http://www.codeskulptor.org/#user41_2wbo5FztzG_18.py",
 			   "15 Puzzle":"http://www.codeskulptor.org/#user41_vYC3Oh4dEl_0.py"};
 
 for (var index = 0; index < link.length; index++) {
